@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 61.0.3163 (Windows 10 0.0.0)" package="" timestamp="2017-11-02T06:32:22" id="0" hostname="PUNITP208211L" tests="3" errors="0" failures="0" time="0.187">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should create the app" time="0.119" classname="Chrome_61_0_3163_(Windows_10_0_0_0).AppComponent"/>
+  <testcase name="AppComponent should have as title 'app'" time="0.04" classname="Chrome_61_0_3163_(Windows_10_0_0_0).AppComponent"/>
+  <testcase name="AppComponent should render title in a h1 tag" time="0.028" classname="Chrome_61_0_3163_(Windows_10_0_0_0).AppComponent"/>
+  <system-out>
+    <![CDATA[Chrome 61.0.3163 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
